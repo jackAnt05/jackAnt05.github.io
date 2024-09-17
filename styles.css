@@ -6,3 +6,19 @@ h1{
     text-align: center;
     color: black;
 }
+h2{
+    text-align: center;
+    font-weight: bold;
+}
+.about{
+    text-align: center;
+}
+.skills{
+    text-align: center;
+}
+.project{
+    text-align: center;
+}
+.contact{
+    text-align: center; 
+}
