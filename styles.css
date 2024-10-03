@@ -6,19 +6,16 @@ h1{
     text-align: center;
     color: black;
 }
-h2{
-    text-align: center;
-    font-weight: bold;
-}
-.about{
-    text-align: center;
-}
-.skills{
-    text-align: center;
-}
-.project{
-    text-align: center;
-}
-.contact{
-    text-align: center; 
+
+.projects{ 
+    display:flex;
+    flex-wrap:wrap;
+ } 
+
+.project {
+width: 30%;
+margin: 10px;
+padding: 20px 10px;
+background: tan; /* pick a color */
+border-radius: 25%;
 }
